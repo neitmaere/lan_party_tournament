@@ -12,7 +12,7 @@ sap.ui.define([
 	    var data = this.getView().getModel("Gamers").getJSON();
 	    $.ajax({
 	      type: "POST",
-	      url: "../../../../php/postGamerData.php",
+	      url: "../../nlpt_php/postGamerData.php",
 	      data: data,
 	      success: function(data, response){
 	        MessageBox.success("Gamers updated");
