@@ -53,7 +53,7 @@
 							<l:BlockLayoutRow>
 								<l:BlockLayoutCell title="" />
 								<l:BlockLayoutCell title="Shooter">
-									<Link text="Turnierbaum >" href="../../../../lan_party_tournament_shooter/WebContent/webapp/" />
+									<Link text="Turnierbaum >" href="../../lan_party_tournament_shooter/webapp/" />
 									<Table items="{Shooter>/}">
 										<columns>
 											<Column hAlign="Center">
@@ -92,7 +92,7 @@
 							<l:BlockLayoutRow>
 								<l:BlockLayoutCell title="" />
 								<l:BlockLayoutCell title="Strategy">
-								<Link text="Turnierbaum >" href="../../../../lan_party_tournament_strategy/WebContent/webapp/" />
+								<Link text="Turnierbaum >" href="../../lan_party_tournament_strategy/webapp/" />
 									<Table items="{Strategy>/}">
 										<columns>
 											<Column hAlign="Center">
@@ -260,7 +260,7 @@
 							<l:BlockLayoutRow>
 								<l:BlockLayoutCell title="" />
 								<l:BlockLayoutCell title="Sport">
-								<Link text="Turnierbaum >" href="../../../../lan_party_tournament_sport/WebContent/webapp/" />
+								<Link text="Turnierbaum >" href="../../lan_party_tournament_sport/webapp/" />
 									<Table items="{Sport>/}">
 										<columns>
 											<Column hAlign="Center">
